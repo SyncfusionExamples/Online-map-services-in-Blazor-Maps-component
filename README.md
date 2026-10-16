@@ -47,9 +47,6 @@ dotnet run
 5. Configure the required API keys for applicable map providers.
 6. Open the local URL displayed in the terminal after the application starts.
 
-## Project Structure
-
-`Pages/Index.razor` — hosts the primary Syncfusion Maps implementation demonstrating online map service providers.
 
 ## Support and Feedback
 
